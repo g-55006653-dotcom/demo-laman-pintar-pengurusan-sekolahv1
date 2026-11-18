@@ -4,7 +4,7 @@ Laman web pengurusan sekolah yang menghimpunkan **Pentadbiran, Kurikulum, Hal Eh
 
 > Demo ini menggunakan **data rekaan** (SK Contoh Pintar). Semua nama murid dan guru adalah contoh. Perubahan yang anda buat hanya disimpan sementara dalam pelayar dan kembali kepada data asal apabila halaman dimuat semula.
 
-**Buka demo:** `https://NAMA-PENGGUNA.github.io/NAMA-REPO/` (gantikan dengan pautan GitHub Pages anda)
+**Buka demo:** `[https://NAMA-PENGGUNA.github.io/NAMA-REPO/](https://g-55006653-dotcom.github.io/demo-laman-pintar-pengurusan-sekolahv1/)` (gantikan dengan pautan GitHub Pages anda)
 
 ## Akaun demo
 
